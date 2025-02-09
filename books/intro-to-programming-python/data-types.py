@@ -1,3 +1,0 @@
-# True
-
-name = "Felicia"
