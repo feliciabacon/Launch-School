@@ -1,4 +1,6 @@
-# 'True' -> string
+# 1. 
+
+# # 'True' -> string
 # False -> bool
 # (1, 2, 3) -> tuple
 # 1.5 float
@@ -12,7 +14,7 @@
 # 2. 
 names = ('Asta', 'Butterscotch', 'Pudding', 'Neptune', 'Darwin')
 
-#3. 
+# 3. 
 pets = {
     'Asta': 'dog',
     'Butterscotch': 'cat',
